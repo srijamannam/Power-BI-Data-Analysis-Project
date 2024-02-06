@@ -1,9 +1,35 @@
 # Power-BI-Data-Analysis-Project
+**Project Overview:**
+    
+    Comprehensive exploration of Power BI functionalities.
+    Focus on connecting and transforming data from various sources (CSV, folders, APIs, SQL Server, Python scripts).
+    Data Transformation:
 
-Conducted data integration from diverse sources (CSV, API, SQL, Python) and implemented data modeling 
-techniques, including normalization, relationships (fact and dimension tables), and star and snowflake schemas
+    Utilized Power Query Editor for transformation tasks.
+    Applied tools for text, number, date manipulation, grouping, pivoting, and merging queries.
+    
+**Data Modeling:**
+    
+    Process included normalization and creating relationships.
+    Established star and snowflake schemas using hierarchies.
+    
+**DAX Usage:**
 
-Utilized Power Query Editor for data transformation; Analyzed data with DAX queries, creating calculated 
-columns and explicit measures, and visualized the data in Power BI to show critical insights
+    Extensive use of Data Analysis Expressions (DAX) for data analysis.
+    Covered various DAX functions: conditional, logical, date and time, text, math, stats, COUNT, CALCULATE, ALL, FILTER, iterator, RELATED, and time intelligence functions.
+    
+**Data Visualization:**
 
-DAX (Data Analysis Expressions) was extensively used for data analysis, involving the calculation of columns and explicit measures. The project covered a range of DAX functions, including conditional, logical, date and time, text, math, stats, COUNT, CALCULATE, ALL, FILTER, iterator, RELATED, and time intelligence functions.
+    Leveraged Power BI features for visualization, including objects, charts, conditional formatting, tooltips, filtering, drill-through filters, and interactive visualizations.
+    Explored defining hierarchies, implementing query folding, and managing roles and row-level security.
+    
+**Report Details:**
+
+    Connected multiple data and fact tables.
+    Demonstrated the process of establishing relationships and filtering data flow.
+    Emphasized database normalization and relationships between data/fact tables and lookup/dimension tables.
+    Showcased creation of calculated columns and measures using DAX.
+
+
+
+
